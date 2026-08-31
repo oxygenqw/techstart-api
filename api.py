@@ -7,4 +7,7 @@ def get_version():
 def get_debug():
     return "1"
 
+def get_path():
+    return "0.0"
+
 # Security patch applied
